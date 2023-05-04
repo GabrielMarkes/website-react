@@ -1,0 +1,6 @@
+.all{
+    background: rgb(140,127,133);
+    background: radial-gradient(circle, rgba(140,127,133,1) 0%, rgba(148,187,233,1) 100%);
+    min-height: 100vh;
+    min-width: 80vh; 
+}

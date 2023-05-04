@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'righeous';
+    src: url(./fonts/Righteous-Regular.ttf);
+}
+.container{
+    color: rgb(181, 245, 179);
+    font-family: 'righeous';
+}
+.img{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h1primeiro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.p2{
+    display: flex;
+    flex-direction: column;
+}
+.container3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

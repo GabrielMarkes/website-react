@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'righeous';
+    src: url(./fonts/Righteous-Regular.ttf);
+}
+.header{
+    color: rgb(181, 245, 179);
+    font-family: 'righeous';
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    padding: 12px;
+    font-size: medium;
+    border-bottom: 1px solid white;
+}
+.list{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 32px;
+}
+li{
+    margin-left: 1rem;
+}
+.logo{
+    height: 50px;
+    border-radius: 50%;
+}
+.link{
+    text-decoration: none;
+    color: rgb(181, 245, 179);
+}

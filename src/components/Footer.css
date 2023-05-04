@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'righeous';
+    src: url(./fonts/Righteous-Regular.ttf);
+}
+.footer{
+    color: rgb(181, 245, 179);
+    font-family: 'righeous';
+}
+.link{
+    text-decoration: none;
+    color: rgb(181, 245, 179);
+}
+.footer-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
